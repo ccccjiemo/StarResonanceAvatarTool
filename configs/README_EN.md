@@ -4,6 +4,7 @@
 
 - `config.json` - CN Server Configuration
 - `config_ASIA.json` - JP Server Configuration
+- `config_TW.json` - CN_TW Server Configuration
 
 ## Manual Download
 

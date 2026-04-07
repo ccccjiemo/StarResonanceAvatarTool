@@ -4,6 +4,7 @@
 
 - `config.json` - 国服配置
 - `config_ASIA.json` - 日服配置
+- `config_TW.json` - 中国台湾配置
 
 ## 手动下载
 
