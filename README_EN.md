@@ -1,11 +1,3 @@
-## 🔄 Texture Data Update Instructions
-
-This tool fetches texture configuration files from the domestic Gitee repository by default. If your network environment cannot access Gitee, follow these steps to switch to the GitHub source:
-1. Open setting.json
-2. Completely delete the line "config_repository_url": "https://gitee.com/..." (⚠️ Ensure there are no trailing commas left after deletion to maintain valid JSON syntax)
-3. Save the file and restart the tool; the program will automatically fall back to the GitHub repository
-
-💡 Tip: After modification, we recommend validating the JSON syntax with an online tool (e.g., jsonlint.com) to prevent configuration errors that could stop the tool from launching.
 
 ## 📁 File Documentation
 For texture path mapping, naming conventions, and supported formats, please refer to [Configuration File Guide](configs/README_EN.md).
